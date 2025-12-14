@@ -41,6 +41,9 @@ Below is a short demonstration of the Zen Book app in action.
 | :-----: | :-----------: |
 | <img src="https://github.com/user-attachments/assets/b1bffda5-c28c-492b-b81a-69f05b18cb0f" width="300"/> | <img src="https://github.com/user-attachments/assets/85522a9c-029b-4ac6-be46-b1cacb5fd465" width="300"/> |
 
+### 📺 App Demo
+
+(https://drive.google.com/file/d/1Nfjmoi-1lv4EMeBy9McR9WuSA6QPcInk/view?usp=drivesdk)
 
 ## 🛠️ Tech Stack
 
